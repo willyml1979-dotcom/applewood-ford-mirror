@@ -1,10 +1,22 @@
 {
   "dealership": "Applewood Ford",
-  "generated_at": "2026-10-08T14:33:15",
-  "vehicle_count": 96,
+  "generated_at": "2026-10-08T20:53:26",
+  "vehicle_count": 97,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "Used2013ScionxB",
+      "vin": "JTLZE4FE5DJ035673",
+      "stock": "FH6N570",
+      "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/12e05ff646ce.html",
+      "source_url": "https://www.applewoodford.ca/inventory/2013-scion-xb-1jvyxUvQScuswUZQjwySvwvdp",
+      "dealer_url": "https://www.applewoodford.ca/inventory/2013-scion-xb-1jvyxUvQScuswUZQjwySvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T20:51:57",
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
+    },
     {
       "name": "Used2014Keystone RVBullet28FT",
       "vin": "4YDT24820EX420275",
@@ -460,7 +472,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/54e8d68c3722.html",
       "source_url": "https://www.applewoodford.ca/inventory/2024-ford-super-duty-f-350-srw-xl-BMjEJYm6TAqrce5AP04R2Avdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2024-ford-super-duty-f-350-srw-xl-BMjEJYm6TAqrce5AP04R2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:35:04",
+      "last_verified": "2026-10-08T20:52:22",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -472,7 +484,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/17bca397281a.html",
       "source_url": "https://www.applewoodford.ca/inventory/2024-nissan-pathfinder-rock-creek-wMGOfifJQmiZyGr8UbkZlwvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2024-nissan-pathfinder-rock-creek-wMGOfifJQmiZyGr8UbkZlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:35:15",
+      "last_verified": "2026-10-08T20:52:33",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -484,7 +496,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/f40ce6f7d8a7.html",
       "source_url": "https://www.applewoodford.ca/inventory/2024-ram-2500-rebel-hpVI3I9sQkOoaGMIrVxoOQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2024-ram-2500-rebel-hpVI3I9sQkOoaGMIrVxoOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:35:24",
+      "last_verified": "2026-10-08T20:52:43",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -497,7 +509,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/b7967444f3e2.html",
       "source_url": "https://www.applewoodford.ca/inventory/2024-volkswagen-tiguan-comfortline-iyGEbGY9SLWnILzsABUeTgvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2024-volkswagen-tiguan-comfortline-iyGEbGY9SLWnILzsABUeTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:35:34",
+      "last_verified": "2026-10-08T20:52:51",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -523,7 +535,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/6985f3cdc823.html",
       "source_url": "https://www.applewoodford.ca/inventory/2025-ford-f-150-xlt-307iylOIQGSe6XTkDXQsGwvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2025-ford-f-150-xlt-307iylOIQGSe6XTkDXQsGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:35:55",
+      "last_verified": "2026-10-08T20:53:03",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -536,7 +548,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/ddb5d98a6e84.html",
       "source_url": "https://www.applewoodford.ca/inventory/2025-ford-f-150-xlt-AhjHqg01SE2xhOBkspUfmAvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2025-ford-f-150-xlt-AhjHqg01SE2xhOBkspUfmAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:36:06",
+      "last_verified": "2026-10-08T20:53:11",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -549,7 +561,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/7adc95e8192d.html",
       "source_url": "https://www.applewoodford.ca/inventory/2025-ford-f-150-xlt-wXVuJH3XSQSI4RXC5hWMHgvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2025-ford-f-150-xlt-wXVuJH3XSQSI4RXC5hWMHgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:36:15",
+      "last_verified": "2026-10-08T20:53:19",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
