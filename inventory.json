@@ -1,7 +1,7 @@
 {
   "dealership": "Applewood Ford",
-  "generated_at": "2026-10-13T18:07:31",
-  "vehicle_count": 97,
+  "generated_at": "2026-10-17T18:12:43",
+  "vehicle_count": 99,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -185,6 +185,18 @@
       "province": "BC"
     },
     {
+      "name": "Used2019HondaCR-VEX-L",
+      "vin": "2HKRW2H8XKH117800",
+      "stock": "FHV6940",
+      "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/62fc03829781.html",
+      "source_url": "https://www.applewoodford.ca/inventory/2019-honda-cr-v-ex-l-O9WeMmsrRM6NhghAjZzqaAvdp",
+      "dealer_url": "https://www.applewoodford.ca/inventory/2019-honda-cr-v-ex-l-O9WeMmsrRM6NhghAjZzqaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T18:11:13",
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
+    },
+    {
       "name": "Used2019NissanMicraS",
       "vin": "3N1CK3CP5KL237870",
       "stock": "FHV3787",
@@ -268,6 +280,18 @@
       "source_url": "https://www.applewoodford.ca/inventory/2022-ford-super-duty-f-350-srw-xl-srQf840FQT6qz06lQUkKyQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2022-ford-super-duty-f-350-srw-xl-srQf840FQT6qz06lQUkKyQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:48:28",
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
+    },
+    {
+      "name": "Used2022GMCTerrainDenali",
+      "vin": "3GKALXEV5NL180583",
+      "stock": "FHV8058",
+      "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/33620febe13c.html",
+      "source_url": "https://www.applewoodford.ca/inventory/2022-gmc-terrain-denali-YAX11d0vSuGQy2VJ8KUaAQvdp",
+      "dealer_url": "https://www.applewoodford.ca/inventory/2022-gmc-terrain-denali-YAX11d0vSuGQy2VJ8KUaAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T18:11:22",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -666,7 +690,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/116c5d923613.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-ranger-lariat-3s8NxbEUR3q0ekaXaVMi3wvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-ranger-lariat-3s8NxbEUR3q0ekaXaVMi3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:37:44",
+      "last_verified": "2026-10-17T18:11:54",
       "odometer_km": 16000,
       "condition": "used",
       "city": "Port Hardy",
@@ -680,7 +704,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/8929d535aeb6.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-ranger-raptor-8wqRustPSBeMmB6MgPECRAvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-ranger-raptor-8wqRustPSBeMmB6MgPECRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:37:55",
+      "last_verified": "2026-10-17T18:12:05",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -693,7 +717,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/6bec381f2bcf.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-transit-cargo-van-5vdJmvKwRK6LeSowM816ogvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-transit-cargo-van-5vdJmvKwRK6LeSowM816ogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:38:05",
+      "last_verified": "2026-10-17T18:12:17",
       "odometer_km": 16000,
       "condition": "used",
       "city": "Port Hardy",
@@ -707,7 +731,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/5958ee04e509.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-transit-cargo-van-6KkbtOnPSH2sZ7P17Iwduwvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-transit-cargo-van-6KkbtOnPSH2sZ7P17Iwduwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:38:15",
+      "last_verified": "2026-10-17T18:12:27",
       "odometer_km": 16000,
       "condition": "used",
       "city": "Port Hardy",
@@ -720,7 +744,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/used/24b745274159.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-gmc-sierra-1500-at4x-seR3WXfRRjCaX8rYEnd2bwvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-gmc-sierra-1500-at4x-seR3WXfRRjCaX8rYEnd2bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:38:26",
+      "last_verified": "2026-10-17T18:12:36",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -836,7 +860,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/f0d8e9f2c9c5.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-bronco-badlands-IThdvNmCRV6BdGw9uJtMoAvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-bronco-badlands-IThdvNmCRV6BdGw9uJtMoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:08:34",
+      "last_verified": "2026-10-13T21:49:37",
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -849,7 +873,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/d0d1b6805b39.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-bronco-base-15Fgne8pSc6Vx0G0n5rO8wvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-bronco-base-15Fgne8pSc6Vx0G0n5rO8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:08:44",
+      "last_verified": "2026-10-13T21:49:48",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -862,7 +887,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/5fb8d48326eb.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-bronco-sport-outer-banks-oF7piNQuRg2sTkXrasioLwvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-bronco-sport-outer-banks-oF7piNQuRg2sTkXrasioLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:08:55",
+      "last_verified": "2026-10-13T21:49:58",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -875,7 +901,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/a5dfb7eb8c6a.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-explorer-platinum-BNr5F56GQhmA80H0lowFawvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-explorer-platinum-BNr5F56GQhmA80H0lowFawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:09:06",
+      "last_verified": "2026-10-13T21:50:09",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -888,7 +915,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/5eef63e633b9.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-explorer-st-line-YapPM8tzRSetUByeMG8kAAvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-explorer-st-line-YapPM8tzRSetUByeMG8kAAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:09:17",
+      "last_verified": "2026-10-13T21:50:20",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -901,7 +929,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/8b4fa6b64fa8.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-lariat-rp56T64ZTBCYoQmm2muOPQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-lariat-rp56T64ZTBCYoQmm2muOPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:09:27",
+      "last_verified": "2026-10-13T21:50:32",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -914,7 +943,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/61b570503712.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-stx-lOi9zIAAT7uqVRgdzpCKBQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-stx-lOi9zIAAT7uqVRgdzpCKBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:09:36",
+      "last_verified": "2026-10-13T21:50:43",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -927,7 +957,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/29a6f03ab4f6.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-tremor-pkaElMbgRdK5gPIchBn4pgvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-tremor-pkaElMbgRdK5gPIchBn4pgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:09:45",
+      "last_verified": "2026-10-13T21:50:53",
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -940,7 +970,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/78fcf9668b74.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-4zKO4O8HT5OqYK6UsqyNmQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-4zKO4O8HT5OqYK6UsqyNmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:09:58",
+      "last_verified": "2026-10-13T21:51:03",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -953,7 +984,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/b856ce3618e2.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-AzbCozk9QPu4NCB7tEsjnwvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-AzbCozk9QPu4NCB7tEsjnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T21:10:08",
+      "last_verified": "2026-10-13T21:51:14",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -980,7 +1012,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/21603b62d18f.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-begIrDd9RLujdxhcwPwcWQvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-begIrDd9RLujdxhcwPwcWQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T21:14:10",
+      "last_verified": "2026-10-13T21:51:23",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
@@ -993,7 +1026,8 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-ford-mirror/new/613d30afac04.html",
       "source_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-r1ldEIwyQsCfPrizPJrAqAvdp",
       "dealer_url": "https://www.applewoodford.ca/inventory/2026-ford-f-150-xlt-r1ldEIwyQsCfPrizPJrAqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T21:14:19",
+      "last_verified": "2026-10-13T21:51:33",
+      "odometer_km": 16000,
       "condition": "new",
       "city": "Port Hardy",
       "province": "BC"
